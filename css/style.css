@@ -41,3 +41,9 @@ section {
 section h1 {
     font-size: 2rem;
 }
+
+footer {
+    background: gray;
+    color: white;
+    text-align: center;
+}
